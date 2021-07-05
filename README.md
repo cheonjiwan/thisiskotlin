@@ -53,5 +53,5 @@
 
 - 구글 지도, 네트워크, OpenAPI
     - 구글 지도
-    - 네트워크
+    - [네트워크](https://github.com/cheonjiwan/thisiskotlin/tree/main/Android_Programming/NetworkRetrofit)
     - Open API로 서울 공공도서관 앱 개발하기
